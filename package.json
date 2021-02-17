@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@adobe/lit-mobx": "^1.0.1",
+    "@types/node": "^14.14.28",
+    "lit-element": "^2.3.1",
+    "mobx": "^6.0.0"
+  }
+}
